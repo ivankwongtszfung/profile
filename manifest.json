@@ -1,6 +1,6 @@
 {
-  "short_name": "Resume",
-  "name": "React Resume",
+  "short_name": "Github Resume",
+  "name": "Github Resume",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
